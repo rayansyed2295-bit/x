@@ -1,4 +1,7 @@
 {
-  "version": "4.3.1",
-  "url": "https://github.com/rayansyed2295-bit/x/releases/download/new/update.apk"
+  "version_name": "4.3.1",
+  "apk_url": "https://github.com/rayansyed2295-bit/x/releases/download/new/update.apk",
+  "update_title": "Silent X Update",
+  "update_message": "Fixed connection issues.",
+  "update_size": "2 MB"
 }
